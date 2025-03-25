@@ -1,6 +1,6 @@
 # 🌍 TrekLog - My Travel Journal App  
 
-TrekLog is a personal travel journal app built with React.js, showcasing my travel experiences. This project leverages **props** and the **map()** function to dynamically display places I have visited.  
+TrekLog is a my personal travel journal app built with React.js, showcasing my travel experiences. This project leverages **props** and the **map()** function to dynamically display places I have visited.  
 
 ---
 
